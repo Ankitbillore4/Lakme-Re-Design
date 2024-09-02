@@ -93,7 +93,6 @@ gsap.from(".ourserviceline", {
         start: "top 85%",
     }
 
-
 })
 
 gsap.from(".contant2button", {
