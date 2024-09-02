@@ -152,7 +152,6 @@ function run() {
 
     }, 1500)
 
-
     let count2 = document.querySelector(".count2")
     let inc = 0
     let time = setInterval(function () {
