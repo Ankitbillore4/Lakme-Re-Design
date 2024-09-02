@@ -107,7 +107,6 @@ gsap.from(".contant2button", {
 
 })
 
-
 gsap.from(".contentabout", {
     y: 100,
     duration: 2,
