@@ -165,7 +165,6 @@ function run() {
         clearInterval(time)
     }, 850)
 
-
     var count3 = document.querySelector(".count3")
     var b = 0
 
