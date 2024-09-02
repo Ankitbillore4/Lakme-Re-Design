@@ -50,7 +50,6 @@ gsap.from(".line", {
     delay: 0.2,
     opacity: 0,
 
-
 })
 
 gsap.from(".ourservice", {
