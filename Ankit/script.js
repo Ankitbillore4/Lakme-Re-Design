@@ -64,7 +64,6 @@ gsap.from(".ourservice", {
         scroller: "body",
         start: "top 85%",
     }
-
 })
 
 gsap.from(".brandidentity", {
