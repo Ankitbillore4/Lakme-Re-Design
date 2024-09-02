@@ -104,7 +104,6 @@ gsap.from(".contant2button", {
     delay: 0.2,
     scale: 1,
 
-
 })
 
 gsap.from(".contentabout", {
