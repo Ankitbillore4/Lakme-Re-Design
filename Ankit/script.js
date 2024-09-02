@@ -5,7 +5,6 @@ tl.from(".navpart1 h1", {
     duration: 0.88,
     opacity: 0,
     scale: 0,
-
 })
 tl.from(".navpart2 h3", {
     y: -100,
