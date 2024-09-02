@@ -1,40 +1,5 @@
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 var tl = gsap.timeline()
 
 tl.from(".navpart1 h1", {
@@ -213,7 +178,6 @@ function run() {
     setTimeout(function () {
         clearInterval(c)
     }, 600)
-
 
     var count4 = document.querySelector(".count4")
     var d = 0
