@@ -15,7 +15,6 @@ tl.from(".navpart2 h3", {
     stagger: 0.2,
 })
 
-
 gsap.to(".logos img ", {
     y: -50,
     duration: 3,
